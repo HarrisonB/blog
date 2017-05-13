@@ -1,0 +1,109 @@
+---
+layout: post
+title: Post Grad
+date:  2017-05-12 19:29:29
+categories: time work hobbies
+---
+
+Yesterday, I took my last final exam of college.
+
+In about a month I start working full time full time as a Software Engineer.
+It'll be the start of a regular schedule, something that up to now has been
+hard to come by.
+
+# Hobbies
+
+I've always been someone who desperately wanted to get very proficient
+at...a fair number of things. Right now, these are what I want to focus on:
+
+- Journalling/Blogging
+- Drawing
+- Learning German
+- Cooking and Meal-planning
+- Reading
+- Exercise
+
+## Journalling/Blogging
+
+My memory isn't the best, nor is my ability to track the progress on my goals.
+To remedy this, I plan on making posts weekly about my life and how I've done
+in trying to improve myself via various means.
+
+## Drawing
+
+I've wanted to be a capable artist ever since I was a ["sensitive
+boy"][wells-for-boys] in middle school. I've made drawings, comics, and digital
+paintings ever since then, but always on-and-off. So I'm hoping to set aside a
+fixed amount of time to making visual ~~art~~ stuff. More details to come.
+
+## Learning German
+
+I got German citizenship in 2016 thanks to [Article 116 par. 2 of the Basic
+Law][restored-citizenship]. I hope to become more knowledgable about the German
+language as well as German culture beyond my 4-weeks-of-German-1 education.
+Hopefully I can visit sometime in the near future and put those skills to use!
+
+I plan on using [Duolingo](https://www.duolingo.com/) in conjunction with some
+textbooks and audio programs. I'll let you know how things go.
+
+## Cooking and Meal-planning
+
+I have historically eaten quite poorly and depended heavily on prepared foods
+and restaurants and fast food eateries. To help alleviate that, I plan on
+cooking gaining more experience with home cooking. My goal is to get more
+confident in the kitchen as well as achieve a slightly healthier BMI.
+
+I'm organizing recipes on a [Trello board][food-trello]. I invite you to take a
+look at what I've got so far. I plan on reporting back on what I make, so stay
+tuned.
+
+## Reading
+
+I got back into reading last year after a several year drought. I'm currently
+reading [The Lathe of Heaven][lathe-on-wikipedia] and loving it. I'll be giving
+my thoughts on books as I read them on this blog. If you've got any
+recommendations, send them to me, but do know that it may take some time to get
+to them.
+
+## Exercise
+
+I have several times planned while at college to run in a half marathon, but
+always failed to adequately prepare. I'm getting back on that horse. Hopefully
+2017 will be the year that it happens 😊.
+
+# Goals
+
+All of these things are probably going to make me a healthier and more
+knowledgable person. This is *partially* what I'm after. I think the larger end
+goal is to be a weird, interesting, but not terrible internet person. 
+
+Bill Wurtz is very good at doing this. He's the person who made this:
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/Mh5LY4Mz15o" frameborder="0"
+allowfullscreen></iframe>
+
+and also this, more than a year later:
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/xuCn8ux2gbs" frameborder="0"
+allowfullscreen></iframe>
+
+He also does other, much more "bizarre" stuff like an [online q & a
+questions][bill-wurtz-q-and-a] that has been going for years now. He responds
+to this at nearly all hours of the day.
+
+The man is unique. He makes tiny fascinating things and just pushes them off
+the shore like a little baby Moses, assuming baby Moses had a strong
+resemblance to [10 second long snail vids][snails].
+
+Anyway, that's the main overarching plan—to make things people having made
+before that make people's lives better (and also not worse).
+
+[wells-for-boys]: https://www.youtube.com/watch?v=BONhk-hbiXk 
+	"SNL Wells for Boys sketch"
+[restored-citizenship]: http://www.germany.info/Vertretung/usa/en/05__Legal/02__Directory__Services/02__Citizenship/__Restored.html
+[food-trello]: https://trello.com/b/IHsQWamv/food
+[lathe-on-wikipedia]: https://en.wikipedia.org/wiki/The_Lathe_of_Heaven 
+[bill-wurtz-q-and-a]: http://www.billwurtz.com/questions/questions.html
+[snails]:

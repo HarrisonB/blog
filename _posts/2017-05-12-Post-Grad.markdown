@@ -3,6 +3,7 @@ layout: post
 title: Post Grad
 date:  2017-05-12 19:29:29
 categories: time work hobbies
+excerpt_separator: <!--more-->
 ---
 
 Yesterday, I took my last final exam of college.
@@ -10,6 +11,8 @@ Yesterday, I took my last final exam of college.
 In about a month I start working full time full time as a Software Engineer.
 It'll be the start of a regular schedule, something that up to now has been
 hard to come by.
+
+<!--more-->
 
 # Hobbies
 

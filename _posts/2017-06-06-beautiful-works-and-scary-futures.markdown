@@ -79,7 +79,7 @@ depressive spiral the other night with my SO and made a hateful comment that I
 shouldn't have made--and wouldn't have made in the right mind. Sometimes
 thinking about the things I might say during those spirals frightens me.
 
-## The Lathe of Heaven
+## *The Lathe of Heaven*
 
 I wanted to write about this book more extensively, but can't seem to find the
 words. It's a novel about dreams and navigates them deftly...so much so that

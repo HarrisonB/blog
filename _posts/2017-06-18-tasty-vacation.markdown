@@ -3,8 +3,7 @@ layout: post
 title: "Tasty vacation"
 date:  2017-06-18 23:12:30
 excerpt_separator: <!--more-->
-published: false
-categories: cooking vacation fleet-foxes humiliation
+categories: cooking vacation fleet-foxes humiliation work mulaney
 ---
 
 It's been the second week with my immediate family and SO as a sort of
@@ -84,9 +83,33 @@ doing something normal and suddenly be reduced to a child in your own eyes.
 
 ## *Oh, Hello on Broadway*
 
+I am a *huge* fan of John Mulaney. He strongly reminds me of Jerry Seinfeld...a
+comparison he is [quite used to by now][mulaney-seinfeld]. To be honest, the
+comparison doesn't make much sense upon examination. Seinfeld prides himself
+on his clean act discussing the minutiae of everyday life, while Mulaney dips
+(occasionally) into the sexual and grotesque, borrowing strongly upon his own
+"lived" experiences, trading immediate relatability for peculiarity. However,
+their cadences do share a great deal of similarity, which is difficult to
+ignore when they are essentially vocal entertainers.
+
+In Mulaney's newest creation with Nick Kroll, the pair play two old men from
+the Upper West Side in a satire of Broadway's tropes among other things. It's
+one of the most polished comedic performances I've ever seen, and if you like
+Seinfeld, Mulaney, or theater, or all of the above, its worth a watch. Here's
+the trailer.
+
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/YPQL8RbwckU" frameborder="0"
 allowfullscreen></iframe>
+
+## First Day
+
+Today was my first day at my new job as a software engineer. To be honest, I
+had a wonderful time. I am really excited about the work I'm going to be doing
+and the people with whom I will be working.
+
+I am concerned about the onset of imposter syndrome, but hopefully, awareness
+of this possibility will help.
 
 ---
 Footnotes
@@ -99,3 +122,4 @@ Footnotes
 
 [butterfly-chicken]: http://www.taste.com.au/quick-easy/articles/how-to-butterfly-chicken-breast-fillets/ajVK6ZmD
 [sun-dried-tomato-recipe]: http://hostthetoast.com/sun-dried-tomato-crusted-chicken-with-goat-cheese-and-herb-sauce/
+[mulaney-seinfeld]: http://deadline.com/2014/07/john-mulaney-jerry-seinfeld-lorne-michaels-fox-comedy-mulaney-martin-short-elliott-gould-806789/

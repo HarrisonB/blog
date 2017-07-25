@@ -59,16 +59,16 @@ and film. I've probably put at least 2.5 hrs worth of time into this channel.
 It's amazing what bite-sized pieces of audio-visual content can do for
 attracting an audience. I'm not saying the content is no good—it's quite well
 done, in fact. It's just that its built up an audience (>1 million subscribers
-in less than a year) that would take an online original textual/comic/audio a
-*much* longer time to develop if starting from an unknown source, and/or not
-featuring household names like *It's Always Sunny* and *Seinfeld*.
+in less than a year) that would take an online original textual/comic/audio
+production a *much* longer time to develop if starting from an unknown source,
+and/or not featuring household names like *It's Always Sunny* and *Seinfeld*.
 
 Most articles[^6] that I've read about this sort of thing quickly veer into
 this act of flicking off young people and lamenting the sorry state of our
-culture. But I think the issue is one of surplus. We're living in ~~a~~ *the*
-Golden Age of Television. We have a new method of media delivery that reaches
-80% of 18-49 year olds that has 300 hours of content uploaded to it [every
-*minute*][yt-statistics].
+culture. But I think the issue is one of surplus. We're living in
+<strike>a</strike> *the* Golden Age of Television. We have a new method of
+media delivery that reaches 80% of 18-49 year olds that has 300 hours of
+content uploaded to it [every *minute*][yt-statistics].
 
 We need to be cooking our own healthier meals with environmentally-friendly and
 ethically raised food. We need to be exercising. We need to be getting more

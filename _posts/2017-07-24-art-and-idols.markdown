@@ -33,7 +33,6 @@ convention floor.
 In summary, here are my suggestions if you meet someone who had a great impact
 on you for the first time:
 1. Acknowledge they probably *can't* care about you
-   much time
 2. Don't outstay your welcome (it will be more brief than you expect)
 3. Use the experience as a pivot or a trophy
 

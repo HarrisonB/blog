@@ -138,11 +138,11 @@ her, what they didn't think. What they thought they had the right to do and the
 obligation to stop.  And in their work they said something about themselves.
 Something clear and unmistakable. They just didn't want to see it walking.
 
-So take inspiration <i>Rhythm 0</i> when you are faced with the challenge of
-expressing simply and clearly with aims to captivate. Communication is a human
-procedure; human impacts are the ones we digest most readily. We humans tend to
-relate via projection. It's the reason Marina's photo above may have given you
-pause and [the reason simple cartoons are drawn so universally
+So take inspiration from <i>Rhythm 0</i> when you are faced with the challenge
+of expressing simply and clearly with aims to captivate. Communication is a
+human procedure; human impacts are the ones we digest most readily. We humans
+tend to relate via projection. It's the reason Marina's photo above may have
+given you pause and [the reason simple cartoons are drawn so universally
 engaging][masking-wiki]. We see ourselves bloodied in reading, hearing, seeing
 these experiences. We'll feel the pain of walking a mile in someone else's
 shoes—the main thing stopping us is just putting the damn things on. Give your

@@ -62,7 +62,7 @@ Channel, Extra Credits, Every Frame a Painting, the Nerdwriter [^4].
 
 So why are people making these video essays?
 
-* **Because it is we are not asked to write stories.** We are asked to write
+* **Because we are not asked to write stories.** We are asked to write
 essays. We are asked that in 6th, 7th, 8th, 9th, 10th, 11th, and 12th grade. So
 when we have the opportunity to make anything, we make an essay.
 

@@ -75,14 +75,14 @@ think. Motivations be damned, they upload a video. And what is that video?  It
 is content that they can make themselves, probably without years of specialized
 training. Some of it is original story, imitating and innovating upon its
 inspiration, but a lot of it is the analytical, whether about one's own life or
-the world around them. And for many of us, the day to day is not very
-interesting. We work in jobs that may, in fact, enrich our lives tremendously.
+the world around them. And for many of them, the day to day is not very
+interesting. They work in jobs that may, in fact, enrich our lives tremendously.
 However, this is often difficult to encapsulate in a 5 minute video and even
 more difficult to make appealing to an unfamiliar and busy audience. So the
 content uses its creators' canons—the shared culture that formed the background
 of their upbringing, a period in which their tastes may have been more amiable
 to the restricted selections of "culture" curated by their parents, guardians,
-siblings, etc. So we make things that are relatable[^3], or at the very least,
+siblings, etc. So they make things that are relatable[^3], or at the very least,
 built with a familiar entryway. And the best[^5] of this stuff, made by real
 *professionals* certainly, makes it to the top.
 

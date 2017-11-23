@@ -16,7 +16,7 @@
 title: Pumpkin Ravioli
 email: harrison.bachrach@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Harrison Bachrach''s personal blog. Should include some dumb and not-so-dumb
+  Harrison Bachrach's personal blog. Should include some dumb and not-so-dumb
   stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.harrisonbachrach.com" # the base hostname & protocol for your site, e.g. http://example.com
